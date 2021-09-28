@@ -9,5 +9,6 @@ Repositorio con el código del [Curso Avanzado de React de Platzi](https://platz
 ### Workflow
 
 Levantar entorno de desarrollo (localhost:8080)
+
 `npm run dev`
 
